@@ -11,3 +11,6 @@ https://d2m7i0pvomh4vg.cloudfront.net/medialist_15609871089997455276_hls.m3u8
 
 #EXTINF:-4, group-title="Ecuador",Rts
 https://d2w3o8zn50cs1k.cloudfront.net/medialist_15609871089997455276_hls.m3u8
+
+#EXTINF:-5, group-title="Ecuador",Teleamazonas
+https://teleamazonas-live.cdn.vustreams.com/live/b545dc57-91af-4f6b-bac7-8d9337166407/live.isml/live.m3u8
