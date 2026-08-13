@@ -18,9 +18,6 @@ https://teleamazonas-live.cdn.vustreams.com/live/b545dc57-91af-4f6b-bac7-8d93371
 #EXTINF:-1, group-title="Ecuador",EcuadorTv
 https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
 
-#EXTINF:-1, group-title="Ecuador",Gamavision
-https://stream.esradioecuador.com/hls/stream.m3u8?t=1786638616318
-
 #EXTINF:-1, group-title="Mexico",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8
 
