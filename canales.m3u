@@ -15,7 +15,7 @@ https://d2w3o8zn50cs1k.cloudfront.net/medialist_15609871089997455276_hls.m3u8
 #EXTINF:-5, group-title="Ecuador",Teleamazonas
 https://teleamazonas-live.cdn.vustreams.com/live/b545dc57-91af-4f6b-bac7-8d9337166407/live.isml/live.m3u8
 
-#EXTINF:-1, group-title="Mexico",Las Estrellas
+#EXTINF:-6, group-title="Mexico",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8
 
 #EXTINF:-1 group-title="Películas",Cybernarco
