@@ -15,5 +15,8 @@ https://d2w3o8zn50cs1k.cloudfront.net/medialist_15609871089997455276_hls.m3u8
 #EXTINF:-5, group-title="Ecuador",Teleamazonas
 https://teleamazonas-live.cdn.vustreams.com/live/b545dc57-91af-4f6b-bac7-8d9337166407/live.isml/live.m3u8
 
+#EXTINF:-1, group-title="Mexico",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8
+
 #EXTINF:-1 group-title="Películas",Cybernarco
 https://sv6n-limit.321moviesfree.com/a03b0834bb4f71ef807087c7361c0102/e3c653c97a0145ff99cb35a836ffacaf-fdf48154485685cde92c6f6675d930a5-sd.m3u8?auth_key=1786582942-e8ba30453ed0424b98eaedf1658507bb-0-81d325831cc7bf7a5a37bb42d332a663&exp=1786669342
