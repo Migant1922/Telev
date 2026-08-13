@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, group-title="Ecuador",Tc Television
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(NoZ6d-c2rLf_Ygcdhisad1DtH6QCXU5xo83Cpqid_v8YErH_-Mbg0BH3RlT8xJ7QhxV4ZEaDxGWBoOazvkhaWt_Ne0FHRMCXtWMoIsXOoV5jn5JmoqlL7zQeqXyGmOG_)/cloud/3/x7wijay/s/live-720.m3u8
+https://cdndirector.dailymotion.com/cdn/live/video/x7wijay.m3u8?sec=IsCdwobECMrAqaRO_deSSuRXcXIjTa6iuIqLIK6wwot2rmeP1PgByoo0jy5sV_0x2BP4Qml7jexP4tpckiG-f--axhBkgwRU7Dn_mGImu0U&dmTs=331277&dmV1st=4e9dcee2-42b6-2d3e-b238-d8e555019c00
 
 #EXTINF:-1, group-title="Ecuador",Ecuavisa
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream2/chunks_dvr.m3u8?ndvc=0&dpssid=r1us172467716291d3c2bc502483ea7b0b57cdc82c89ca&sid=ba5t1l1xb210601795036a7c9e7ba9c58
